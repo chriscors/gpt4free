@@ -4,7 +4,7 @@ from time import time, sleep
 from typing import Generator, Optional
 from uuid import uuid4
 
-from mailgw_temporary_email import Email
+# from mailgw_temporary_email import Email
 from fake_useragent import UserAgent
 from requests import post
 from tls_client import Session
